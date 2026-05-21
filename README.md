@@ -1,5 +1,11 @@
 # 🧠 ML-Powered Reminiscence Matching for Dementia Care
 
+> 📄 **Master's Thesis** — Konstantinos Vasilopoulos · Utrecht University · 2024  
+> Conducted in collaboration with **[Sports & Memory](https://terugblikken.com)**  
+> Full thesis: [`Thesis - Final project.pdf`](Thesis%20-%20Final%20project.pdf)
+
+---
+
 **Business problem:** Matching personal profiles of people living with dementia to relevant sports reminiscence images is done manually by care workers — a slow, inconsistent process that limits the scale of reminiscence therapy.  
 **Research question:** Can machine learning automate profile-to-image matching accurately enough to replace manual curation?  
 **Finding:** Yes — a lightweight LLM-based text model outperforms both complex fusion approaches and human-intuition baselines, reducing matching from minutes per patient to near-instant.
